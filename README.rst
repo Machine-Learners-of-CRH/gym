@@ -3,6 +3,32 @@
 OpenAI Gym
 **********
 
+# OpenAI Gym Wiki
+* [Gym Repository](https://github.com/openai/gym/)
+* [Wiki Home](https://github.com/openai/gym/wiki/)
+* [Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
+* [Environments](https://github.com/openai/gym/wiki/Environments)
+  * [CartPole-v0](https://github.com/openai/gym/wiki/CartPole-v0)
+  * [Pendulum-v0](https://github.com/openai/gym/wiki/Pendulum-v0)
+  * [MountainCar-v0](https://github.com/openai/gym/wiki/MountainCar-v0)
+  * [MountainCarContinuous-v0](https://github.com/openai/gym/wiki/MountainCarContinuous-v0)
+  * [BipedalWalker-v2](https://github.com/openai/gym/wiki/BipedalWalker-v2)
+  * [Humanoid-V1](https://github.com/openai/gym/wiki/Humanoid-V1)
+  * [Riverraid-v0](https://github.com/openai/gym/wiki/Riverraid-v0)
+  * [Breakout-v0](https://github.com/openai/gym/wiki/Leaderboard#breakout-v0)
+  * [Pong-v0](https://github.com/openai/gym/wiki/Leaderboard#pong-v0)
+  * [MsPacman-v0](https://github.com/openai/gym/wiki/Leaderboard#mspacman-v0)
+  * [SpaceInvaders-v0](https://github.com/openai/gym/wiki/Leaderboard#spaceinvaders-v0)
+  * [Seaquest-v0](https://github.com/openai/gym/wiki/Leaderboard#seaquest-v0)
+  * [LunarLanderV2](https://github.com/openai/gym/wiki/Leaderboard#lunarlander-v2)
+  * [Reacher-v2](https://github.com/openai/gym/wiki/Reacher-v2)
+  * [FrozenLake-v0](https://github.com/openai/gym/wiki/FrozenLake-v0)
+* [FAQ](https://github.com/openai/gym/wiki/FAQ)
+* [Resources](https://github.com/openai/gym/wiki/Learning-resources)
+* Feature Requests
+  * [Wrapper info](https://github.com/openai/gym/wiki/Feature-suggestion:-Observation-wrappers)
+  * [Wrapper Q&A](https://github.com/openai/gym/wiki/QA--for-experimental-feature:-Wrappers)
+
 **OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.** This is the ``gym`` open-source library, which gives you access to a standardized set of environments.
 
 .. image:: https://travis-ci.org/openai/gym.svg?branch=master
