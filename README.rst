@@ -1,6 +1,4 @@
-**Status:** Maintenance (expect bug fixes and minor updates)
-
-OpenAI Gym
+[OpenAI Gym](https://gym.openai.com/)
 **********
 
 # OpenAI Gym Wiki
